@@ -62,7 +62,7 @@ ax[1].set_ylabel('Wiggle')
 ax[1].set_title(f'{ticker} Wiggle Indicator {timeframe}')
 
 # Uncomment this plot if you want to display the chart only & not trade
-plt.show()
+# plt.show()
 
 #Log in to robin_stocks
 rs.login()
